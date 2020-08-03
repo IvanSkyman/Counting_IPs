@@ -1,0 +1,30 @@
+1st range started (0..429499999)
+unique_number_from_range=84066577 
+unique_number=84066577 
+2nd range started (429500000..858999999)
+unique_number_from_range=92211487 
+unique_number=176278064 
+3rd range started (859000000..1288499999)
+unique_number_from_range=100180821 
+unique_number=276458885 
+4th range started (1288500000..1717999999)
+unique_number_from_range=107986267 
+unique_number=384445152 
+5th range started (1718000000..2147483647)
+unique_number_from_range=115529021 
+unique_number=499974173 
+6th range started (-2147483648..-1718000000)
+unique_number_from_range=115465765 
+unique_number=615439938 
+7th range started (-1717999999..-1288500000)
+unique_number_from_range=107997925 
+unique_number=723437863 
+8th range started (-1288499999..-859000000)
+unique_number_from_range=100201513 
+unique_number=823639376 
+9th range started (-858999999..-429500000)
+unique_number_from_range=92288303 
+unique_number=915927679 
+10th range started (-429499999..-1)
+unique_number_from_range=84072321 
+unique_number=1000000000 
